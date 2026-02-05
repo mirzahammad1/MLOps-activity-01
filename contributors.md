@@ -1,4 +1,4 @@
 ### Contributors
 
 - Sagar Chhabriya  
-- <Mirza Hammad Baig>: I love MLOps!
+- Mirza Hammad Baig: I love MLOps!
